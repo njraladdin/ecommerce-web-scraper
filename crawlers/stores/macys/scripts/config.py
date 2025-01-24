@@ -56,13 +56,27 @@ SCRAPER_CONFIG = {
         },
         "price_current": {
             "method": "select_one",
-            "pattern": ".price-reg",
-            "text": True
+            "pattern": "div.pricing.price-simplification > div:nth-child(1) > span",
+            "text": True,
+            "transform": "clean_price"
+        },
+        "price_min": {
+            "method": "select_one",
+            "pattern": "div.pricing.price-simplification > div:nth-child(1) > span",
+            "text": True,
+            "transform": "first_price"
+        },
+        "price_max": {
+            "method": "select_one",
+            "pattern": "div.pricing.price-simplification > div:nth-child(1) > span",
+            "text": True,
+            "transform": "last_price"
         },
         "price_original": {
             "method": "select_one",
-            "pattern": ".price-strike",
-            "text": True
+            "pattern": ".price-strike-sm",
+            "text": True,
+            "transform": "clean_price"
         },
         "product_metadata": {
             "method": "extract_metadata",

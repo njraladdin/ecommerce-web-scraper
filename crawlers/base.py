@@ -29,19 +29,33 @@ class SelectorMixin:
         """Clean and transform price string."""
         if not value:
             return None
-        # Remove currency symbol and any whitespace
-        return value.replace('$', '').strip()
+        # Remove currency symbols and any whitespace
+        return value.replace('$', '').replace('USD', '').strip()
     
     def _extract_price_range(self, value: str) -> tuple:
         """Extract min and max prices from a price range string."""
-        if not value:
+        try:
+            if not value:
+                return None, None
+            
+            # Clean the string and split by range indicator
+            clean_value = value.replace('$', '').replace('USD', '').strip()
+            
+            # Remove discount information in parentheses if present
+            if '(' in clean_value:
+                clean_value = clean_value.split('(')[0].strip()
+            
+            if '-' in clean_value:
+                parts = clean_value.split('-')
+                min_price = parts[0].strip()
+                max_price = parts[1].strip()
+                return min_price, max_price
+            
+            return clean_value, clean_value
+            
+        except Exception as e:
+            logger.error(f"Error extracting price range from '{value}': {str(e)}")
             return None, None
-        # Clean the string and split by range indicator
-        clean_value = value.replace('$', '').strip()
-        if '-' in clean_value:
-            parts = clean_value.split('-')
-            return parts[0].strip(), parts[1].strip()
-        return clean_value, clean_value
     
     def extract_with_selector(self, soup_item: BeautifulSoup, selector: Dict[str, Any] | str) -> Any:
         """
@@ -98,6 +112,7 @@ class SelectorMixin:
 
             # Apply transformations if specified
             if transform and value:
+                logger.debug(f"Applying transform '{transform}' to value: {value}")
                 if transform == 'first_url':
                     # Extract first URL from a srcset attribute
                     value = value.split(',')[0].split(' ')[0] if isinstance(value, str) else value
@@ -105,13 +120,15 @@ class SelectorMixin:
                     value = self._transform_price(value)
                 elif transform == 'first_price':
                     min_price, _ = self._extract_price_range(value)
+                    logger.debug(f"first_price transform result: {min_price}")
                     value = min_price
                 elif transform == 'last_price':
                     _, max_price = self._extract_price_range(value)
+                    logger.debug(f"last_price transform result: {max_price}")
                     value = max_price
                 # Add more transformations as needed
                 
-            logger.debug(f"Extracted value: {value}")
+            logger.debug(f"Final extracted value: {value}")
             return value
             
         except Exception as e:
