@@ -1,0 +1,1272 @@
+{
+  "metadata": {
+    "store": "macys",
+    "timestamp": "20250124_151001",
+    "total_items": 60
+  },
+  "items": [
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-luxury-wool-cashmere-blend-overcoats?ID=16043324&swatchColor=Camel Tan",
+      "brand": "macys",
+      "name": "Men's Classic Fit Luxury Wool Cashmere Blend Overcoats",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-luxury-wool-cashmere-blend-overcoats?ID=16043324&swatchColor=Camel Tan",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/25465497_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "158.40 (68% off)",
+      "price_min": "158.40",
+      "price_max": "158.40",
+      "price_original": "495.00",
+      "product_metadata": {
+        "rating": "Rated 4.4941 stars",
+        "review_count": "423",
+        "colors": [
+          "Camel Tan",
+          "Charcoal",
+          "Vicuna",
+          "Black",
+          "Brown Herringbone"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-cashmere-crew-neck-sweater-created-for-macys?ID=1500400&swatchColor=Pink",
+      "brand": "macys",
+      "name": "Cashmere Crew-Neck Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-cashmere-crew-neck-sweater-created-for-macys?ID=1500400&swatchColor=Pink",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/28839086_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "59.60 (60% off)",
+      "price_min": "59.60",
+      "price_max": "59.60",
+      "price_original": "149.00",
+      "product_metadata": {
+        "rating": "Rated 4.408 stars",
+        "review_count": "2,414",
+        "colors": [
+          "Pink",
+          "Navy Heather",
+          "Dark Charcoal Heather",
+          "Holly Green"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-v-neck-cashmere-sweater-created-for-macys?ID=4827919",
+      "brand": "macys",
+      "name": "Men's V-Neck Cashmere Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-v-neck-cashmere-sweater-created-for-macys?ID=4827919",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/28838374_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "59.60 (60% off)",
+      "price_min": "59.60",
+      "price_max": "59.60",
+      "price_original": "149.00",
+      "product_metadata": {
+        "rating": "Rated 4.4126 stars",
+        "review_count": "2,482",
+        "colors": [
+          "Harvest",
+          "College Red",
+          "Cabernet",
+          "Oatmeal Heather",
+          "Navy Heather"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/kenneth-cole-mens-double-breasted-wool-blend-peacoat-with-bib?ID=6632627",
+      "brand": "macys",
+      "name": "Men's Double Breasted Wool Blend Peacoat with Bib",
+      "product_url": "/shop/product/kenneth-cole-mens-double-breasted-wool-blend-peacoat-with-bib?ID=6632627",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/23157046_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "100.00 (60% off)",
+      "price_min": "100.00",
+      "price_max": "100.00",
+      "price_original": "250.00",
+      "product_metadata": {
+        "rating": "Rated 4.4639 stars",
+        "review_count": "761",
+        "colors": [
+          "Black",
+          "Dark Olive",
+          "Navy",
+          "Olive",
+          "Charcoal"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-stretch-plaid-sport-coat?ID=15796695",
+      "brand": "macys",
+      "name": "Men's Classic-Fit Stretch Plaid Sport Coat",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-stretch-plaid-sport-coat?ID=15796695",
+      "price_current": "94.40 (68% off)",
+      "price_min": "94.40",
+      "price_max": "94.40",
+      "price_original": "295.00",
+      "product_metadata": {
+        "rating": "Rated 4.7544 stars",
+        "review_count": "57"
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/london-fog-men-signature-wool-blend-overcoat?ID=987859",
+      "brand": "macys",
+      "name": "Men Signature Wool-Blend Overcoat",
+      "product_url": "/shop/product/london-fog-men-signature-wool-blend-overcoat?ID=987859",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/10145260_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "110.60 (72% off)",
+      "price_min": "110.60",
+      "price_max": "110.60",
+      "price_original": "395.00",
+      "product_metadata": {
+        "rating": "Rated 4.5997 stars",
+        "review_count": "737",
+        "colors": [
+          "Dark Charcoal",
+          "Ecru",
+          "Camel",
+          "Brown",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-wool-cashmere-luxury-classic-fit-sport-coat?ID=15796756&swatchColor=Camel",
+      "brand": "macys",
+      "name": "Men's Wool Cashmere Luxury Classic Fit Sport Coat",
+      "product_url": "/shop/product/michael-kors-mens-wool-cashmere-luxury-classic-fit-sport-coat?ID=15796756&swatchColor=Camel",
+      "price_current": "120.00 (68% off)",
+      "price_min": "120.00",
+      "price_max": "120.00",
+      "price_original": "375.00",
+      "product_metadata": {
+        "rating": "Rated 4.5804 stars",
+        "review_count": "734",
+        "colors": [
+          "Camel",
+          "Charcoal",
+          "Vicuna",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-tricot-track-jacket?ID=11921486",
+      "brand": "macys",
+      "name": "Men's Tricot Track Jacket",
+      "product_url": "/shop/product/adidas-mens-tricot-track-jacket?ID=11921486",
+      "price_current": "33.00 -  41.25 (25-40% off)",
+      "price_min": "33.00",
+      "price_max": "41.25",
+      "price_original": "55.00",
+      "product_metadata": {
+        "rating": "Rated 4.7648 stars",
+        "review_count": "2,504",
+        "colors": [
+          "Black/White",
+          "Legend Ink/White",
+          "White/Black",
+          "Legtea",
+          "Lucid Blue/White"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/kennth-cole-mens-slim-tapered-fit-stretch-tech-pants?ID=18800580&swatchColor=Black",
+      "brand": "macys",
+      "name": "Kennth Cole Men's Slim-Tapered Fit Stretch Tech Pants",
+      "product_url": "/shop/product/kennth-cole-mens-slim-tapered-fit-stretch-tech-pants?ID=18800580&swatchColor=Black",
+      "price_current": "50.39 (37% off)",
+      "price_min": "50.39",
+      "price_max": "50.39",
+      "price_original": "79.50",
+      "product_metadata": {
+        "rating": "Rated 4.5 stars",
+        "review_count": "8",
+        "colors": [
+          "Black",
+          "Teal"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/weatherproof-vintage-mens-cashmere-cardigan?ID=19312083&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Cashmere Cardigan",
+      "product_url": "/shop/product/weatherproof-vintage-mens-cashmere-cardigan?ID=19312083&swatchColor=Black",
+      "price_current": "Now  96.00  (60% off)",
+      "price_min": "Now  96.00",
+      "price_max": "Now  96.00",
+      "price_original": "240.00",
+      "product_metadata": {
+        "rating": "Rated 4.5 stars",
+        "review_count": "2",
+        "colors": [
+          "Black",
+          "Charcoal Heather"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-cable-knit-quarter-zip-cotton-sweater-created-for-macys?ID=11180080",
+      "brand": "macys",
+      "name": "Men's Cable Knit Quarter-Zip Cotton Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-cable-knit-quarter-zip-cotton-sweater-created-for-macys?ID=11180080",
+      "price_current": "52.50  (30% off)",
+      "price_min": "52.50",
+      "price_max": "52.50",
+      "price_original": "75.00",
+      "product_metadata": {
+        "rating": "Rated 4.3905 stars",
+        "review_count": "443",
+        "colors": [
+          "Think Pink",
+          "Bonsai",
+          "Concord Crush",
+          "Fire",
+          "Soft Grey Heather"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-solid-crew-neck-merino-wool-blend-sweater-created-for-macys?ID=9368495",
+      "brand": "macys",
+      "name": "Men's Solid Crew Neck Merino Wool Blend Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-solid-crew-neck-merino-wool-blend-sweater-created-for-macys?ID=9368495",
+      "price_current": "44.80 (44% off)",
+      "price_min": "44.80",
+      "price_max": "44.80",
+      "price_original": "80.00",
+      "product_metadata": {
+        "rating": "Rated 4.122 stars",
+        "review_count": "1,492",
+        "colors": [
+          "Crm Deep Hunter",
+          "Royal Purple",
+          "Wedgewood Heather",
+          "Light Grey Heather",
+          "Deep Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-quarter-zip-textured-cotton-sweater-created-for-macys?ID=11180081",
+      "brand": "macys",
+      "name": "Men's Quarter-Zip Textured Cotton Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-quarter-zip-textured-cotton-sweater-created-for-macys?ID=11180081",
+      "price_current": "36.40 (44% off)",
+      "price_min": "36.40",
+      "price_max": "36.40",
+      "price_original": "65.00",
+      "product_metadata": {
+        "rating": "Rated 3.9376 stars",
+        "review_count": "945",
+        "colors": [
+          "Fire",
+          "Bonsai",
+          "Carrot Top",
+          "Red Plum",
+          "Navy Blue"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-essentials-3-stripes-fleece-sweatpants?ID=15164649&swatchColor=Mgh/blk",
+      "brand": "macys",
+      "name": "Men's Essentials 3-Stripes Fleece Sweatpants",
+      "product_url": "/shop/product/adidas-mens-essentials-3-stripes-fleece-sweatpants?ID=15164649&swatchColor=Mgh/blk",
+      "price_current": "35.00  (30% off)",
+      "price_min": "35.00",
+      "price_max": "35.00",
+      "price_original": "50.00",
+      "product_metadata": {
+        "rating": "Rated 4.7235 stars",
+        "review_count": "745",
+        "colors": [
+          "Mgh/blk",
+          "Dgh/wht",
+          "Leg Ink/wht",
+          "Black/wht",
+          "Shabrn"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-textured-cotton-sweater-created-for-macys?ID=11180992",
+      "brand": "macys",
+      "name": "Men's Textured Cotton Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-textured-cotton-sweater-created-for-macys?ID=11180992",
+      "price_current": "35.00  (30% off)",
+      "price_min": "35.00",
+      "price_max": "35.00",
+      "price_original": "50.00",
+      "product_metadata": {
+        "rating": "Rated 4.33 stars",
+        "review_count": "200",
+        "colors": [
+          "Fire",
+          "Bonsai",
+          "Concord Crush",
+          "Maple Leaf",
+          "Sapphire Lake"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/levis-mens-carrier-loose-fit-non-stretch-9.5-cargo-shorts?ID=2542926&swatchColor=True Chino",
+      "brand": "macys",
+      "name": "Men's Carrier Loose-Fit Non-Stretch 9.5\" Cargo Shorts",
+      "product_url": "/shop/product/levis-mens-carrier-loose-fit-non-stretch-9.5-cargo-shorts?ID=2542926&swatchColor=True Chino",
+      "price_current": "29.99  (39% off)",
+      "price_min": "29.99",
+      "price_max": "29.99",
+      "price_original": "49.50",
+      "product_metadata": {
+        "rating": "Rated 4.4196 stars",
+        "review_count": "703",
+        "colors": [
+          "True Chino",
+          "Black",
+          "Monument",
+          "Graphite Ripstop",
+          "Navy Blazer"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/weatherproof-vintage-mens-cashmere-textured-crewneck-sweater?ID=19312082&swatchColor=Camel Donegal",
+      "brand": "macys",
+      "name": "Men's Cashmere Textured Crewneck Sweater",
+      "product_url": "/shop/product/weatherproof-vintage-mens-cashmere-textured-crewneck-sweater?ID=19312082&swatchColor=Camel Donegal",
+      "price_current": "Now  88.00  (60% off)",
+      "price_min": "Now  88.00",
+      "price_max": "Now  88.00",
+      "price_original": "220.00",
+      "product_metadata": {
+        "rating": "Rated 5 stars",
+        "review_count": "2",
+        "colors": [
+          "Camel Donegal",
+          "Denim Heather",
+          "Light Grey Heather"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/perry-ellis-mens-classic-leather-jacket?ID=10058781&swatchColor=Brown",
+      "brand": "macys",
+      "name": "Men's Classic Leather Jacket",
+      "product_url": "/shop/product/perry-ellis-mens-classic-leather-jacket?ID=10058781&swatchColor=Brown",
+      "price_current": "210.00 (60% off)",
+      "price_min": "210.00",
+      "price_max": "210.00",
+      "price_original": "525.00",
+      "product_metadata": {
+        "rating": "Rated 4.1338 stars",
+        "review_count": "269",
+        "colors": [
+          "Brown",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-solid-wool-blend-overcoats?ID=16043322&swatchColor=Camel",
+      "brand": "macys",
+      "name": "Men's Classic-Fit Solid Wool Blend Overcoats",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-solid-wool-blend-overcoats?ID=16043322&swatchColor=Camel",
+      "price_current": "138.60 (72% off)",
+      "price_min": "138.60",
+      "price_max": "138.60",
+      "price_original": "495.00",
+      "product_metadata": {
+        "rating": "Rated 3.9375 stars",
+        "review_count": "32",
+        "colors": [
+          "Camel",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-stretch-solid-blazers?ID=10671754&swatchColor=Navy",
+      "brand": "macys",
+      "name": "Men's Classic-Fit Stretch Solid Blazers",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-stretch-solid-blazers?ID=10671754&swatchColor=Navy",
+      "price_current": "94.40 (68% off)",
+      "price_min": "94.40",
+      "price_max": "94.40",
+      "price_original": "295.00",
+      "product_metadata": {
+        "rating": "Rated 4.4832 stars",
+        "review_count": "298",
+        "colors": [
+          "Navy",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-double-breasted-wool-blend-peacoats?ID=16043315&swatchColor=Olive",
+      "brand": "macys",
+      "name": "Men's Classic Fit Double-Breasted Wool Blend Peacoats",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-double-breasted-wool-blend-peacoats?ID=16043315&swatchColor=Olive",
+      "price_current": "94.80 (76% off)",
+      "price_min": "94.80",
+      "price_max": "94.80",
+      "price_original": "395.00",
+      "product_metadata": {
+        "rating": "Rated 4.6129 stars",
+        "review_count": "124",
+        "colors": [
+          "Olive",
+          "Dark Navy",
+          "Light Grey",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-essentials-3-stripes-regular-fit-fleece-joggers?ID=15164672",
+      "brand": "macys",
+      "name": "Men's Essentials 3-Stripes Regular-Fit Fleece Joggers",
+      "product_url": "/shop/product/adidas-mens-essentials-3-stripes-regular-fit-fleece-joggers?ID=15164672",
+      "price_current": "35.00  (30% off)",
+      "price_min": "35.00",
+      "price_max": "35.00",
+      "price_original": "50.00",
+      "product_metadata": {
+        "rating": "Rated 4.7859 stars",
+        "review_count": "1,331",
+        "colors": [
+          "Bluspa",
+          "Easy Pink / Blk",
+          "White / Black",
+          "Mgh/wht",
+          "Dgh/wht"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-merino-wool-blend-turtleneck-sweater-created-for-macys?ID=9368916",
+      "brand": "macys",
+      "name": "Men's Merino Wool Blend Turtleneck Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-merino-wool-blend-turtleneck-sweater-created-for-macys?ID=9368916",
+      "price_current": "44.80 (44% off)",
+      "price_min": "44.80",
+      "price_max": "44.80",
+      "price_original": "80.00",
+      "product_metadata": {
+        "rating": "Rated 4.122 stars",
+        "review_count": "1,492",
+        "colors": [
+          "Red Plum",
+          "Crm Deep Hunter",
+          "Light Grey Hthr",
+          "Vintage Khaki",
+          "Cherry"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/perry-ellis-mens-crewneck-tech-pullover-sweater?ID=14794049&swatchColor=Smoked Heather",
+      "brand": "macys",
+      "name": "Men's Crewneck Tech Pullover Sweater",
+      "product_url": "/shop/product/perry-ellis-mens-crewneck-tech-pullover-sweater?ID=14794049&swatchColor=Smoked Heather",
+      "price_current": "56.79 (29% off)",
+      "price_min": "56.79",
+      "price_max": "56.79",
+      "price_original": "79.50",
+      "product_metadata": {
+        "rating": "Rated 5 stars",
+        "review_count": "1",
+        "colors": [
+          "Smoked Heather",
+          "Arctic",
+          "Black",
+          "Dusty Blue"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/london-fog-men-double-breasted-wool-blend-peacoat?ID=16376367&swatchColor=Navy",
+      "brand": "macys",
+      "name": "Men Double-Breasted Wool Blend Peacoat",
+      "product_url": "/shop/product/london-fog-men-double-breasted-wool-blend-peacoat?ID=16376367&swatchColor=Navy",
+      "price_current": "98.00 (72% off)",
+      "price_min": "98.00",
+      "price_max": "98.00",
+      "price_original": "350.00",
+      "product_metadata": {
+        "rating": "Rated 4.5607 stars",
+        "review_count": "107",
+        "colors": [
+          "Navy",
+          "Black",
+          "Charcoal"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-feel-cozy-essentials-fleece-pullover-hoodie?ID=11917387",
+      "brand": "macys",
+      "name": "Men's Feel Cozy Essentials Fleece Pullover Hoodie",
+      "product_url": "/shop/product/adidas-mens-feel-cozy-essentials-fleece-pullover-hoodie?ID=11917387",
+      "price_current": "35.00  (30% off)",
+      "price_min": "35.00",
+      "price_max": "35.00",
+      "price_original": "50.00",
+      "product_metadata": {
+        "rating": "Rated 4.7022 stars",
+        "review_count": "920",
+        "colors": [
+          "Black",
+          "Alumin",
+          "Scarlet",
+          "Dark Grey Heather",
+          "Royal"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-solid-v-neck-sweater-vest-created-for-macys?ID=13420350",
+      "brand": "macys",
+      "name": "Men's Solid V-Neck Sweater Vest, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-solid-v-neck-sweater-vest-created-for-macys?ID=13420350",
+      "price_current": "27.72 (44% off)",
+      "price_min": "27.72",
+      "price_max": "27.72",
+      "price_original": "49.50",
+      "product_metadata": {
+        "rating": "Rated 4.4081 stars",
+        "review_count": "223",
+        "colors": [
+          "Wild Ivy",
+          "Blue Yonder",
+          "Charcoal Heather",
+          "Concord Crush",
+          "Deep Black"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-chunky-turtleneck-sweater-created-for-macys?ID=18090938",
+      "brand": "macys",
+      "name": "Men's Chunky Turtleneck Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-chunky-turtleneck-sweater-created-for-macys?ID=18090938",
+      "price_current": "42.00 (44% off)",
+      "price_min": "42.00",
+      "price_max": "42.00",
+      "price_original": "75.00",
+      "product_metadata": {
+        "rating": "Rated 4.5091 stars",
+        "review_count": "55",
+        "colors": [
+          "Lt Grey",
+          "Charcoal Hthr",
+          "Dark Grey",
+          "Moca",
+          "Navy Blue"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/perry-ellis-mens-slim-fit-dress-pants?ID=5891602&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Slim-Fit Dress Pants",
+      "product_url": "/shop/product/perry-ellis-mens-slim-fit-dress-pants?ID=5891602&swatchColor=Black",
+      "price_current": "56.79 (29% off)",
+      "price_min": "56.79",
+      "price_max": "56.79",
+      "price_original": "79.50",
+      "product_metadata": {
+        "rating": "Rated 4.6061 stars",
+        "review_count": "33",
+        "colors": [
+          "Black",
+          "Charcoal Heather"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-performance-dress-pants?ID=15884171",
+      "brand": "macys",
+      "name": "Men's Classic Fit Performance Dress Pants",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-performance-dress-pants?ID=15884171",
+      "price_current": "64.99 -  95.00",
+      "price_min": "64.99",
+      "price_max": "95.00",
+      "price_original": "95.00",
+      "product_metadata": {
+        "rating": "Rated 4.374 stars",
+        "review_count": "262",
+        "colors": [
+          "Navy",
+          "Army Green",
+          "Ash Blue",
+          "Black",
+          "Gray"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/calvin-klein-steel-mens-slim-fit-pincord-dress-shirt?ID=17614217",
+      "brand": "macys",
+      "name": "Men's Slim Fit Pincord Dress Shirt",
+      "product_url": "/shop/product/calvin-klein-steel-mens-slim-fit-pincord-dress-shirt?ID=17614217",
+      "price_current": "54.40 (36% off)",
+      "price_min": "54.40",
+      "price_max": "54.40",
+      "price_original": "85.00",
+      "product_metadata": {
+        "rating": "Rated 4.6923 stars",
+        "review_count": "52",
+        "colors": [
+          "Burgundy",
+          "Carbon",
+          "Oatmeal",
+          "Olive",
+          "Purple"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/hugo-by-hugo-boss-mens-beazly2436-slim-fit-quilted-full-zip-hooded-puffer-jacket?ID=18936074&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Beazly2436 Slim-Fit Quilted Full-Zip Hooded Puffer Jacket",
+      "product_url": "/shop/product/hugo-by-hugo-boss-mens-beazly2436-slim-fit-quilted-full-zip-hooded-puffer-jacket?ID=18936074&swatchColor=Black",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/28872273_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "174.00  (50% off)",
+      "price_min": "174.00",
+      "price_max": "174.00",
+      "price_original": "348.00",
+      "product_metadata": {
+        "rating": "Rated 4.5385 stars",
+        "review_count": "13",
+        "colors": [
+          "Black",
+          "Grey",
+          "Khaki",
+          "Navy",
+          "Red"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/marc-new-york-mens-sideling-stretch-crinkle-down-color-block-bomber-jacket?ID=16810829&swatchColor=Lagoon",
+      "brand": "macys",
+      "name": "Men's Sideling Stretch Crinkle Down Color Block Bomber Jacket",
+      "product_url": "/shop/product/marc-new-york-mens-sideling-stretch-crinkle-down-color-block-bomber-jacket?ID=16810829&swatchColor=Lagoon",
+      "price_current": "170.00 (60% off)",
+      "price_min": "170.00",
+      "price_max": "170.00",
+      "price_original": "425.00",
+      "product_metadata": {
+        "rating": "Rated 3.8333 stars",
+        "review_count": "6",
+        "colors": [
+          "Lagoon",
+          "Black",
+          "Sage"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/alfani-mens-long-sleeve-v-neck-merino-sweater-created-for-macys?ID=16004253",
+      "brand": "macys",
+      "name": "Men's Long-Sleeve V-Neck Merino Sweater, Created for Macy's",
+      "product_url": "/shop/product/alfani-mens-long-sleeve-v-neck-merino-sweater-created-for-macys?ID=16004253",
+      "price_current": "44.79 (44% off)",
+      "price_min": "44.79",
+      "price_max": "44.79",
+      "price_original": "80.00",
+      "product_metadata": {
+        "rating": "Rated 4.0726 stars",
+        "review_count": "124",
+        "colors": [
+          "Cloud Heather",
+          "Almond Crush",
+          "Berry Violet",
+          "Blue Shale",
+          "Chili Spice"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-tricot-jogger-pants?ID=11921491",
+      "brand": "macys",
+      "name": "Men's Tricot Jogger Pants",
+      "product_url": "/shop/product/adidas-mens-tricot-jogger-pants?ID=11921491",
+      "price_current": "33.75  (25% off)",
+      "price_min": "33.75",
+      "price_max": "33.75",
+      "price_original": "45.00",
+      "product_metadata": {
+        "rating": "Rated 4.7058 stars",
+        "review_count": "1,890",
+        "colors": [
+          "Dark Grey Heather/Black",
+          "Legend Ink/White",
+          "White/Black",
+          "Black/White",
+          "Tent Green/purple"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/calvin-klein-steel-mens-regular-fit-modern-pincord-dress-shirt?ID=17614223&swatchColor=Burgundy",
+      "brand": "macys",
+      "name": "Men's Regular Fit Modern Pincord Dress Shirt",
+      "product_url": "/shop/product/calvin-klein-steel-mens-regular-fit-modern-pincord-dress-shirt?ID=17614223&swatchColor=Burgundy",
+      "price_current": "54.40 (36% off)",
+      "price_min": "54.40",
+      "price_max": "54.40",
+      "price_original": "85.00",
+      "product_metadata": {
+        "rating": "Rated 4.6944 stars",
+        "review_count": "36",
+        "colors": [
+          "Burgundy",
+          "Carbon",
+          "Oatmeal",
+          "Olive",
+          "Purple Dusk"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-slim-fit-airsoft-performance-non-iron-dress-shirt?ID=6267226",
+      "brand": "macys",
+      "name": "Men's Slim Fit Airsoft Performance Non-Iron Dress Shirt",
+      "product_url": "/shop/product/michael-kors-mens-slim-fit-airsoft-performance-non-iron-dress-shirt?ID=6267226",
+      "price_current": "57.28 (36% off)",
+      "price_min": "57.28",
+      "price_max": "57.28",
+      "price_original": "89.50",
+      "product_metadata": {
+        "rating": "Rated 4.6139 stars",
+        "review_count": "202",
+        "colors": [
+          "White",
+          "Gray",
+          "Navy",
+          "Light Blue",
+          "Pink"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/kenneth-cole-reaction-mens-ready-flex-slim-fit-suit?ID=4799182&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Ready Flex Slim-Fit Suit",
+      "product_url": "/shop/product/kenneth-cole-reaction-mens-ready-flex-slim-fit-suit?ID=4799182&swatchColor=Black",
+      "price_current": "395.00",
+      "price_min": "395.00",
+      "price_max": "395.00",
+      "product_metadata": {
+        "rating": "Rated 4.1615 stars",
+        "review_count": "1,579",
+        "colors": [
+          "Black",
+          "Light Grey",
+          "Blue",
+          "Navy Solid",
+          "Gun Metal"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/under-armour-mens-ua-tech-half-zip-pullover?ID=5770481&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's UA Tech Half-Zip Pullover",
+      "product_url": "/shop/product/under-armour-mens-ua-tech-half-zip-pullover?ID=5770481&swatchColor=Black",
+      "price_current": "39.99  (11% off)",
+      "price_min": "39.99",
+      "price_max": "39.99",
+      "price_original": "45.00",
+      "product_metadata": {
+        "rating": "Rated 4.6267 stars",
+        "review_count": "943",
+        "colors": [
+          "Black",
+          "Navy",
+          "Carbon Heather/Black",
+          "Royal Blue"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-regular-fit-airsoft-non-iron-performance-dress-shirt?ID=4862567",
+      "brand": "macys",
+      "name": "Men's Regular Fit Airsoft Non-Iron Performance Dress Shirt",
+      "product_url": "/shop/product/michael-kors-mens-regular-fit-airsoft-non-iron-performance-dress-shirt?ID=4862567",
+      "price_current": "57.28 (36% off)",
+      "price_min": "57.28",
+      "price_max": "57.28",
+      "price_original": "89.50",
+      "product_metadata": {
+        "rating": "Rated 4.4406 stars",
+        "review_count": "286",
+        "colors": [
+          "Navy",
+          "White",
+          "Powder Blue",
+          "Grey Frost",
+          "Cocoa"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/kenneth-cole-mens-solid-slim-fit-performance-shirt?ID=14522746&swatchColor=White",
+      "brand": "macys",
+      "name": "Men’s Solid Slim Fit Performance Shirt",
+      "product_url": "/shop/product/kenneth-cole-mens-solid-slim-fit-performance-shirt?ID=14522746&swatchColor=White",
+      "price_current": "50.39 (36% off)",
+      "price_min": "50.39",
+      "price_max": "50.39",
+      "price_original": "79.00",
+      "product_metadata": {
+        "rating": "Rated 3.4074 stars",
+        "review_count": "27",
+        "colors": [
+          "White",
+          "Black",
+          "Dark Teal",
+          "Navy"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/bar-iii-mens-slim-fit-sport-coat-created-for-macys?ID=17541385&swatchColor=Burgundy",
+      "brand": "macys",
+      "name": "Men's Slim Fit Sport Coat, Created for Macy's",
+      "product_url": "/shop/product/bar-iii-mens-slim-fit-sport-coat-created-for-macys?ID=17541385&swatchColor=Burgundy",
+      "price_current": "70.80 (76% off)",
+      "price_min": "70.80",
+      "price_max": "70.80",
+      "price_original": "295.00",
+      "product_metadata": {
+        "rating": "Rated 4.5556 stars",
+        "review_count": "18",
+        "colors": [
+          "Burgundy",
+          "Blue/tan",
+          "Brown"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/men-classic-fit-iconic-belted-trench-raincoat?ID=1048412&swatchColor=Chino",
+      "brand": "macys",
+      "name": "Men Classic Fit Iconic Belted Trench Raincoat",
+      "product_url": "/shop/product/men-classic-fit-iconic-belted-trench-raincoat?ID=1048412&swatchColor=Chino",
+      "price_current": "126.00 (72% off)",
+      "price_min": "126.00",
+      "price_max": "126.00",
+      "price_original": "450.00",
+      "product_metadata": {
+        "rating": "Rated 4.2629 stars",
+        "review_count": "175",
+        "colors": [
+          "Chino",
+          "Black",
+          "British Khaki"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-cozy-fleece-tapered-leg-mid-rise-jogger-pants?ID=13435151",
+      "brand": "macys",
+      "name": "Men's Cozy Fleece Tapered Leg Mid-Rise Jogger Pants",
+      "product_url": "/shop/product/adidas-mens-cozy-fleece-tapered-leg-mid-rise-jogger-pants?ID=13435151",
+      "price_current": "35.00  (30% off)",
+      "price_min": "35.00",
+      "price_max": "35.00",
+      "price_original": "50.00",
+      "product_metadata": {
+        "rating": "Rated 4.6718 stars",
+        "review_count": "451",
+        "colors": [
+          "College Green",
+          "Mgh",
+          "Alumin",
+          "Leg Ink",
+          "Dgh"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-solid-stretch-polo-created-for-macys?ID=12263420&swatchColor=Dark Lead",
+      "brand": "macys",
+      "name": "Men's Solid Stretch Polo, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-solid-stretch-polo-created-for-macys?ID=12263420&swatchColor=Dark Lead",
+      "price_current": "27.72 (44% off)",
+      "price_min": "27.72",
+      "price_max": "27.72",
+      "price_original": "49.50",
+      "product_metadata": {
+        "rating": "Rated 4.4439 stars",
+        "review_count": "205",
+        "colors": [
+          "Dark Lead",
+          "Bright White",
+          "Deep Black",
+          "Navy Blue",
+          "Red Plum"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/bar-iii-mens-slim-fit-linen-suit-jackets-created-for-macys?ID=18050244&swatchColor=Tan Solid",
+      "brand": "macys",
+      "name": "Men's Slim-Fit Linen Suit Jackets, Created for Macy's",
+      "product_url": "/shop/product/bar-iii-mens-slim-fit-linen-suit-jackets-created-for-macys?ID=18050244&swatchColor=Tan Solid",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/26615468_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "144.00 (60% off)",
+      "price_min": "144.00",
+      "price_max": "144.00",
+      "price_original": "360.00",
+      "product_metadata": {
+        "rating": "Rated 4.5714 stars",
+        "review_count": "7",
+        "colors": [
+          "Tan Solid",
+          "Blue"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/london-fog-mens-wool-blend-overcoat-attached-vest?ID=16376369&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Wool-Blend Overcoat & Attached Vest",
+      "product_url": "/shop/product/london-fog-mens-wool-blend-overcoat-attached-vest?ID=16376369&swatchColor=Black",
+      "price_current": "110.60 (72% off)",
+      "price_min": "110.60",
+      "price_max": "110.60",
+      "price_original": "395.00",
+      "product_metadata": {
+        "rating": "Rated 4.4286 stars",
+        "review_count": "35",
+        "colors": [
+          "Black",
+          "Charcoal"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/weatherproof-vintage-mens-chunky-cable-knit-toggle-sweater?ID=19312065&swatchColor=Light Khaki Heather",
+      "brand": "macys",
+      "name": "NEW! Men's Chunky Cable Knit Toggle Sweater",
+      "product_url": "/shop/product/weatherproof-vintage-mens-chunky-cable-knit-toggle-sweater?ID=19312065&swatchColor=Light Khaki Heather",
+      "price_current": "42.50  (50% off)",
+      "price_min": "42.50",
+      "price_max": "42.50",
+      "price_original": "85.00",
+      "product_metadata": {
+        "rating": "Rated 4.3333 stars",
+        "review_count": "24",
+        "colors": [
+          "Light Khaki Heather",
+          "Denim Heather",
+          "Light Olive",
+          "Ruby"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-essentials-3-stripes-regular-fit-full-zip-fleece-hoodie-regular-big-tall?ID=15164650",
+      "brand": "macys",
+      "name": "Men's Essentials 3-Stripes Regular-Fit Full-Zip Fleece Hoodie, Regular & Big & Tall",
+      "product_url": "/shop/product/adidas-mens-essentials-3-stripes-regular-fit-full-zip-fleece-hoodie-regular-big-tall?ID=15164650",
+      "price_current": "45.50  (30% off)",
+      "price_min": "45.50",
+      "price_max": "45.50",
+      "price_original": "65.00",
+      "product_metadata": {
+        "rating": "Rated 4.8085 stars",
+        "review_count": "3,493",
+        "colors": [
+          "Black/wht",
+          "Dgh/wht",
+          "Tent Green/blk",
+          "Leg Ink/wht",
+          "Mgh/wht"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/weatherproof-vintage-mens-cable-knit-quarter-button-long-sleeve-sweater?ID=19036297&swatchColor=Indigo",
+      "brand": "macys",
+      "name": "Men's Cable Knit Quarter Button Long Sleeve Sweater",
+      "product_url": "/shop/product/weatherproof-vintage-mens-cable-knit-quarter-button-long-sleeve-sweater?ID=19036297&swatchColor=Indigo",
+      "price_current": "42.50  (50% off)",
+      "price_min": "42.50",
+      "price_max": "42.50",
+      "price_original": "85.00",
+      "product_metadata": {
+        "rating": "Rated 4.2973 stars",
+        "review_count": "74",
+        "colors": [
+          "Indigo",
+          "Beige",
+          "Smoke"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-notch-lapel-faux-suede-sport-coat?ID=15796704&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Classic Fit Notch Lapel Faux Suede Sport Coat",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-notch-lapel-faux-suede-sport-coat?ID=15796704&swatchColor=Black",
+      "price_current": "94.40 (68% off)",
+      "price_min": "94.40",
+      "price_max": "94.40",
+      "price_original": "295.00",
+      "product_metadata": {
+        "rating": "Rated 4.85 stars",
+        "review_count": "40",
+        "colors": [
+          "Black",
+          "Mulberry",
+          "Navy",
+          "Tan"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-birdseye-quarter-zip-pullover-created-for-macys?ID=12525610",
+      "brand": "macys",
+      "name": "Men's Birdseye Quarter-Zip Pullover, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-birdseye-quarter-zip-pullover-created-for-macys?ID=12525610",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/19433222_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=webp&wid=342&hei=417",
+      "price_current": "36.40 (44% off)",
+      "price_min": "36.40",
+      "price_max": "36.40",
+      "price_original": "65.00",
+      "product_metadata": {
+        "rating": "Rated 4.25 stars",
+        "review_count": "312",
+        "colors": [
+          "Marine Green",
+          "Billowing Cloud",
+          "Deep Black",
+          "Navy Blue",
+          "Red Plum"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/hawke-co.-mens-sherpa-lined-hooded-puffer-jacket?ID=16194628",
+      "brand": "macys",
+      "name": "Men's Sherpa Lined Hooded Puffer Jacket",
+      "product_url": "/shop/product/hawke-co.-mens-sherpa-lined-hooded-puffer-jacket?ID=16194628",
+      "price_current": "50.00 (60% off)",
+      "price_min": "50.00",
+      "price_max": "50.00",
+      "price_original": "125.00",
+      "product_metadata": {
+        "rating": "Rated 4.3846 stars",
+        "review_count": "195",
+        "colors": [
+          "Black",
+          "Bark",
+          "Carbon",
+          "Dark Forest",
+          "Hawke Navy"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/london-fog-coventry-wool-blend-overcoat?ID=1048503&swatchColor=Black",
+      "brand": "macys",
+      "name": "Coventry Wool-Blend Overcoat",
+      "product_url": "/shop/product/london-fog-coventry-wool-blend-overcoat?ID=1048503&swatchColor=Black",
+      "price_current": "110.60 (72% off)",
+      "price_min": "110.60",
+      "price_max": "110.60",
+      "price_original": "395.00",
+      "product_metadata": {
+        "rating": "Rated 4.5591 stars",
+        "review_count": "313",
+        "colors": [
+          "Black",
+          "Brown Multi",
+          "Charcoal Herringbone"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/club-room-mens-cable-knit-full-zip-sweater-created-for-macys?ID=18090936&swatchColor=Winter Ivory",
+      "brand": "macys",
+      "name": "Men's Cable-Knit Full-Zip Sweater, Created for Macy's",
+      "product_url": "/shop/product/club-room-mens-cable-knit-full-zip-sweater-created-for-macys?ID=18090936&swatchColor=Winter Ivory",
+      "price_current": "42.00 (44% off)",
+      "price_min": "42.00",
+      "price_max": "42.00",
+      "price_original": "75.00",
+      "product_metadata": {
+        "rating": "Rated 4.4074 stars",
+        "review_count": "27",
+        "colors": [
+          "Winter Ivory",
+          "Navy Blue"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/hugo-by-hugo-boss-mens-sonni-crewneck-sweater?ID=19375868",
+      "brand": "macys",
+      "name": "Men's Sonni Crewneck Sweater",
+      "product_url": "/shop/product/hugo-by-hugo-boss-mens-sonni-crewneck-sweater?ID=19375868",
+      "price_current": "Now  74.00  (50% off)",
+      "price_min": "Now  74.00",
+      "price_max": "Now  74.00",
+      "price_original": "148.00",
+      "product_metadata": {
+        "rating": "Rated 4.6667 stars",
+        "review_count": "3"
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-primegreen-essentials-warm-up-open-hem-3-stripes-track-pants?ID=11921498&swatchColor=Black/White",
+      "brand": "macys",
+      "name": "Men's Primegreen Essentials Warm-Up Open Hem 3-Stripes Track Pants",
+      "product_url": "/shop/product/adidas-mens-primegreen-essentials-warm-up-open-hem-3-stripes-track-pants?ID=11921498&swatchColor=Black/White",
+      "price_current": "33.75  (25% off)",
+      "price_min": "33.75",
+      "price_max": "33.75",
+      "price_original": "45.00",
+      "product_metadata": {
+        "rating": "Rated 4.5474 stars",
+        "review_count": "1,233",
+        "colors": [
+          "Black/White",
+          "Black/Scarlet",
+          "Dark Grey Heather/Black",
+          "Black/Black",
+          "Legend Ink/White"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/michael-kors-mens-classic-fit-stretch-corduroy-solid-sport-coat?ID=12504308&swatchColor=Black",
+      "brand": "macys",
+      "name": "Men's Classic-Fit Stretch Corduroy Solid Sport Coat",
+      "product_url": "/shop/product/michael-kors-mens-classic-fit-stretch-corduroy-solid-sport-coat?ID=12504308&swatchColor=Black",
+      "price_current": "94.40 (68% off)",
+      "price_min": "94.40",
+      "price_max": "94.40",
+      "price_original": "295.00",
+      "product_metadata": {
+        "rating": "Rated 4.4844 stars",
+        "review_count": "225",
+        "colors": [
+          "Black",
+          "Burgundy",
+          "Camel",
+          "Navy",
+          "Vicuna"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/sun-stone-mens-garment-dyed-cargo-jogger-pants-created-for-macys?ID=18241730&swatchColor=Tank",
+      "brand": "macys",
+      "name": "Men's Garment-Dyed Cargo Jogger Pants, Created for Macy's",
+      "product_url": "/shop/product/sun-stone-mens-garment-dyed-cargo-jogger-pants-created-for-macys?ID=18241730&swatchColor=Tank",
+      "price_current": "33.00 (40% off)",
+      "price_min": "33.00",
+      "price_max": "33.00",
+      "price_original": "55.00",
+      "product_metadata": {
+        "rating": "Rated 4.25 stars",
+        "review_count": "8",
+        "colors": [
+          "Tank",
+          "Deep Black",
+          "Titanium Grey",
+          "Twill"
+        ]
+      }
+    },
+    {
+      "store": "macys",
+      "store_product_id": "/shop/product/adidas-mens-essentials-3-stripes-regular-fit-fleece-hoodie-regular-big-tall?ID=15164675",
+      "brand": "macys",
+      "name": "Men's Essentials 3-Stripes Regular-Fit Fleece Hoodie, Regular & Big & Tall",
+      "product_url": "/shop/product/adidas-mens-essentials-3-stripes-regular-fit-fleece-hoodie-regular-big-tall?ID=15164675",
+      "price_current": "42.00  (30% off)",
+      "price_min": "42.00",
+      "price_max": "42.00",
+      "price_original": "60.00",
+      "product_metadata": {
+        "rating": "Rated 4.5726 stars",
+        "review_count": "124",
+        "colors": [
+          "Alumin",
+          "Black/wht",
+          "Mgh/wht",
+          "Tent Green/blk",
+          "Legtea"
+        ]
+      }
+    }
+  ]
+}

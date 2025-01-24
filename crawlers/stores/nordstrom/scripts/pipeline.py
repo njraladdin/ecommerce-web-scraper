@@ -1,6 +1,8 @@
 from typing import List, Dict, Any
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
@@ -59,6 +61,11 @@ class NordstromScraper(BaseScraper, HumanScrollingMixin, SelectorMixin):
         self.driver.get(url)
         time.sleep(random.uniform(2.0, 4.0))
         logger.debug("Target page loaded successfully")
+
+        # Handle any popups
+        self.handle_popups()
+        logger.debug("Popup handling completed")
+
     def scroll_page(self) -> None:
         """Scroll the page using human-like behavior."""
         logger.debug("Starting page scroll")
@@ -154,31 +161,39 @@ class NordstromScraper(BaseScraper, HumanScrollingMixin, SelectorMixin):
             logger.info(f"Error checking for next page button: {e}")
             return False
 
+    def click_next_page(self) -> bool:
+        """Click the next page button."""
+        try:
+            next_button_selector = self.config["pagination"]["selectors"]["next_button"]["pattern"]
+            wait = WebDriverWait(self.driver, 5)
+            next_button = wait.until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, next_button_selector))
+            )
+            
+            # Scroll button into view
+            self.driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", next_button)
+
+            time.sleep(random.uniform(3.0, 5.0))
+            
+            # Added popup handling
+            logger.info("Checking for popups before clicking")
+            self.handle_popups(wait_time=1)
+            logger.info("Popup check completed")
+            
+            next_button.click()
+            time.sleep(random.uniform(4.0, 6.0))
+            return True
+        except Exception as e:
+            logger.error(f"Error clicking next page button: {e}")
+            return False
+
     def go_to_next_page(self) -> None:
         """Click the next page button if it exists."""
         logger.info("Attempting to navigate to next page")
-        #time.sleep(10000000)
-        try:
-            if self.has_next_page():
-                next_button_selector = self.config["pagination"]["selectors"]["next_button"]["pattern"]
-                next_button = self.driver.find_element(By.CSS_SELECTOR, next_button_selector)
-                
-                # Scroll button into view
-                self.driver.execute_script(
-                    "arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", 
-                    next_button
-                )
-                time.sleep(random.uniform(1.0, 2.0))
-                
-                # Wait before clicking
-                time.sleep(random.uniform(2.0, 4.0))
-                next_button.click()
-                logger.info("Successfully clicked next page button")
-                time.sleep(random.uniform(3.0, 5.0))
-            else:
-                logger.info("No next page button found - we may be on the last page")
-        except Exception as e:
-            logger.info(f"Error while clicking next page button: {e}")
+        if self.has_next_page():
+            self.click_next_page()
+        else:
+            logger.info("No next page button found - we may be on the last page")
 
 def get_scraper(config=None):
     """Factory function to create a NordstromScraper instance."""

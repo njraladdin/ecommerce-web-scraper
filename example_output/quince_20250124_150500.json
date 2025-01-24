@@ -1,0 +1,1010 @@
+{
+  "metadata": {
+    "store": "quince",
+    "timestamp": "20250124_150500",
+    "total_items": 50
+  },
+  "items": [
+    {
+      "store": "quince",
+      "store_product_id": "/accessories/cashmere/cashmere-comb",
+      "brand": "Quince",
+      "name": "Natural Wood - One Size Cashmere Comb",
+      "product_url": "/accessories/cashmere/cashmere-comb",
+      "image_url": "//images.quince.com/3sqlxUKYnsxDtc4psjHpId/490688a02423727c54650c929825b4fc/cashmere_comb.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "10.00",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Natural Wood"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-ultra-soft-performance-short-1",
+      "brand": "Quince",
+      "name": "Heather Aloe Flowknit Performance Short",
+      "product_url": "/men/flowknit-ultra-soft-performance-short-1",
+      "image_url": "//images.quince.com/ieZenU15YvVcIXuSTfj6j/23f683513a29a8f9ae6cffc178951a5b/M-SHT-10-HALO_1732_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "34.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Heather Aloe",
+          "Heather Sable",
+          "Heather Cedar",
+          "Heather Pale Grey",
+          "Heather Green"
+        ],
+        "tags": [
+          "New"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/cashmere/beanie",
+      "brand": "Quince",
+      "name": "Heather Grey Mongolian Cashmere Ribbed Beanie",
+      "product_url": "/unisex/cashmere/beanie",
+      "image_url": "//images.quince.com/4XV5p3MjGlE7v5WrLReqEV/b3723fced5191f1ce874477c31455968/100-cashmere-ribbed-beanie-13463078568047.jpeg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "29.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Heather Grey",
+          "Black",
+          "Charcoal",
+          "Navy",
+          "Oatmeal"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/cashmere/cashmere-crewneck-sweater?color=charcoal",
+      "brand": "Quince",
+      "name": "Charcoal Mongolian Cashmere Crewneck Sweater",
+      "product_url": "/men/cashmere/cashmere-crewneck-sweater?color=charcoal",
+      "image_url": "//images.quince.com/17HBod3bMatmzdJj6cnB7T/6e692062e97678a456045a7798aa39cb/M-HKT-2-CHAR_0010.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "59.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Charcoal",
+          "Heather Grey",
+          "True Navy",
+          "Rich Burgundy",
+          "Teak"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/softshell-full-zip-hooded-jacket?color=heather-olive-oil",
+      "brand": "Quince",
+      "name": "Heather Olive Oil Softshell Fleece-Lined Full-Zip Hooded Jacket",
+      "product_url": "/men/softshell-full-zip-hooded-jacket?color=heather-olive-oil",
+      "image_url": "//images.quince.com/4FfSCIwPfcCLAQJ9CGp1vH/4f90b966cdc07cb9ef04095b441ac031/M-JKT-87-HOLVOL_1122_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "79.90",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Heather Deep Navy",
+          "Heather Shady Charcoal",
+          "Heather Olive Oil"
+        ],
+        "tags": [
+          "New"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/micromodal-stretch-boxer-short-3-pack?color=navy%2Fblack",
+      "brand": "Quince",
+      "name": "Navy/Black Micromodal Stretch Boxer Short (3-Pack)",
+      "product_url": "/men/micromodal-stretch-boxer-short-3-pack?color=navy%2Fblack",
+      "image_url": "//images.quince.com/4s8lsmFanOcV34LnSShU5c/cd9bb7001e94430fb1c5d197c51dbc19/M--16-NVYBLK-080_EDITED.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Black",
+          "Navy"
+        ],
+        "tags": [
+          "New"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/women/cashmere/cashmere-socks",
+      "brand": "Quince",
+      "name": "Black Cashmere Trouser Sock",
+      "product_url": "/women/cashmere/cashmere-socks",
+      "image_url": "//images.quince.com/5RxFkO3csuTfle9EezAEFm/16acff948571e067c5645d18bd3e1821/black_Cashmere.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "29.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Black",
+          "Oatmeal",
+          "Heather Grey",
+          "Charcoal",
+          "Brown"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/cashmere/cashmere-quarter-zip-sweater?color=charcoal",
+      "brand": "Quince",
+      "name": "Charcoal Mongolian Cashmere Quarter Zip Sweater",
+      "product_url": "/men/cashmere/cashmere-quarter-zip-sweater?color=charcoal",
+      "image_url": "//images.quince.com/5nOsrMzUSHcjqf0mRwTApI/d29d9f584d1936be6c405080242a5de1/M-HKT-4-CHR_2150.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "99.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Charcoal",
+          "Heather Grey",
+          "Brown",
+          "Teak",
+          "True Navy"
+        ],
+        "tags": [
+          "Best seller",
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/cashmere/cashmere-full-zip-hoodie?color=black",
+      "brand": "Quince",
+      "name": "Black Mongolian Cashmere Full-Zip Hoodie",
+      "product_url": "/men/cashmere/cashmere-full-zip-hoodie?color=black",
+      "image_url": "//images.quince.com/rvJpylZXztw9GyA5ErceX/c7b923d4bb5f16118f0aae6f487c002a/cashmere-full-zip-hoodie-13659584168047.jpeg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "109.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Black",
+          "Charcoal",
+          "Heather Grey",
+          "True Navy",
+          "Teak"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-ultra-soft-performance-hoodie?color=heather-navy",
+      "brand": "Quince",
+      "name": "Heather Navy Flowknit Performance Hoodie",
+      "product_url": "/men/flowknit-ultra-soft-performance-hoodie?color=heather-navy",
+      "image_url": "//images.quince.com/1MzvAEIdsMkQske3l63dds/73a0c0723c5f3b58559e626d9f34c2e0/210412_QUINCE_M-HKT-12-HNV_2453.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Heather Navy",
+          "Heather Grey",
+          "Black",
+          "Heather Green",
+          "Heather Aloe"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/cameron-polarized-acetate-sunglasses?color=tan-tortoise-with-brown-lens",
+      "brand": "Quince",
+      "name": "Tan Tortoise with Brown Lens - One Size Cameron Polarized Acetate Sunglasses",
+      "product_url": "/unisex/cameron-polarized-acetate-sunglasses?color=tan-tortoise-with-brown-lens",
+      "image_url": "//images.quince.com/66vpyGaUUSZBSq6gqPjpUl/5241eb89b359c847e8876ff63f9bb6a4/Cameron_Tan_Tort_183018.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "4.7",
+        "colors": [
+          "Fawn Tortoise with Brown Gradient lens",
+          "Clear Brown with Brown lens",
+          "Tan Tortoise with Brown Lens"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/revive-nylon-bucket-hat?color=linen",
+      "brand": "Quince",
+      "name": "Linen Revive Nylon Bucket Hat",
+      "product_url": "/revive-nylon-bucket-hat?color=linen",
+      "image_url": "//images.quince.com/6htJHvAPalceMJWOE1QNkL/ea2f16aa2599293df77c50c95dddf872/U-HAT-3_19_EDITED.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "29.90",
+      "product_metadata": {
+        "colors": [
+          "Sand",
+          "Black",
+          "Linen"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/tuscon-polarized-acetate-sunglasses",
+      "brand": "Quince",
+      "name": "White Tortoise with Green lens Tuscon Polarized Acetate Sunglasses",
+      "product_url": "/unisex/tuscon-polarized-acetate-sunglasses",
+      "image_url": "//images.quince.com/XmND565sSIfWMx6akiCPF/de86093eefb8c1e98200e359eafc9c4c/U-U-SUN-51-WTG_0229_EDITED.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "White Tortoise with Green lens",
+          "Fawn Tortoise with Grey Lens",
+          "Amethyst Tortoise with Grey lens"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/recycled-butterknit-tech-tee?color=olive",
+      "brand": "Quince",
+      "name": "Olive Flowknit Breeze Performance Tee",
+      "product_url": "/men/recycled-butterknit-tech-tee?color=olive",
+      "image_url": "//images.quince.com/4t9shuKxatmEW1bvrDK9QZ/f5c6a546f35423e4e6040a3f11393a4f/M-LKT-3-OLV_0123.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "19.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Olive",
+          "Heather Oatmeal",
+          "Heather Sky Blue",
+          "Heather Black",
+          "Heather Aloe"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-ultra-soft-performance-half-zip?color=heather-grey",
+      "brand": "Quince",
+      "name": "Heather Grey Flowknit Performance Half-Zip",
+      "product_url": "/men/flowknit-ultra-soft-performance-half-zip?color=heather-grey",
+      "image_url": "//images.quince.com/7jRwfSJt4gnJKWqjlUndso/2bc0e151eed339320f33e7b72689f4c1/M-HKT-15-HGREY-4256_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Heather Grey",
+          "Heather Cedar",
+          "Heather Pale Grey",
+          "Heather Green",
+          "Black"
+        ],
+        "tags": [
+          "Low stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/ultra-soft-micromodal-boxer-brief-3-pack",
+      "brand": "Quince",
+      "name": "Navy Micromodal 8\" Boxer Brief (3-pack)",
+      "product_url": "/men/ultra-soft-micromodal-boxer-brief-3-pack",
+      "image_url": "//images.quince.com/3JlKmEPoDOtbaIL2lyM2Gt/1c5dad3e33f42a119e96eaff18158880/M--2-NVY-1973_copy.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Navy",
+          "Black",
+          "Grey"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/women/organic-cloudsole-ankle-sock-4-pack",
+      "brand": "Quince",
+      "name": "White Everyday Cotton Solid Ankle Socks (4-pack)",
+      "product_url": "/women/organic-cloudsole-ankle-sock-4-pack",
+      "image_url": "//images.quince.com/1Hdlb8UHBfWggdGLNwWMbu/92437fa13525f298dd300e22503d0794/Ankle_4_white.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "24.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "White",
+          "Grey/Charcoal",
+          "Black",
+          "Navy"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/sweatshirts-&-sweatpants/organic-cotton-heavyweight-sweatpant",
+      "brand": "Quince",
+      "name": "Black Organic Heavyweight Fleece Sweatpants",
+      "product_url": "/men/sweatshirts-&-sweatpants/organic-cotton-heavyweight-sweatpant",
+      "image_url": "//images.quince.com/5DNX7rQPODx6pH2odutchF/c978fb95694dfb6b17c79dc68769206a/M-HKT-9-BLK-3530_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "49.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Black",
+          "Heather Grey"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/montreal-polarized-acetate-sunglasses",
+      "brand": "Quince",
+      "name": "Clear Slate with Grey lens Montreal Polarized Acetate Sunglasses",
+      "product_url": "/unisex/montreal-polarized-acetate-sunglasses",
+      "image_url": "//images.quince.com/nKSCZlQBKLe2ikVDpJehh/e0c8b71f684665a1be55880637d8c286/U-U-SUN-57_0048_EDITED__1_.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Clear Slate with Grey lens"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/wyatt-polarized-acetate-sunglasses?color=clear-brown-with-brown-lens",
+      "brand": "Quince",
+      "name": "Clear Brown with Brown lens - One Size Wyatt Polarized Acetate Sunglasses",
+      "product_url": "/unisex/wyatt-polarized-acetate-sunglasses?color=clear-brown-with-brown-lens",
+      "image_url": "//images.quince.com/4huACvtJSUGrlWCEYDbYpK/c153dec47438f391a37365531da7234d/Wyatt_Clear_Brown_183015.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Black with Grey Gradient lens",
+          "Clear Brown with Brown lens",
+          "Fawn Tortoise with Brown lens"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/recycled-flowknit-performance-polo",
+      "brand": "Quince",
+      "name": "Olive Flowknit Breeze Performance Polo",
+      "product_url": "/men/recycled-flowknit-performance-polo",
+      "image_url": "//images.quince.com/4KNt5oWZ34sFPSPxGLXH9g/bd81fa4fed8e593f8ce13afeee8df971/QUINCE_M-LKT-17-GRN_2594.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "34.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Olive",
+          "Navy",
+          "Burgundy",
+          "Heather Sky Blue",
+          "Heather Black"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/ultra-soft-micromodal-6-boxer-brief-3-pack?color=navy",
+      "brand": "Quince",
+      "name": "Navy Micromodal 6\" Boxer Brief (3-pack)",
+      "product_url": "/men/ultra-soft-micromodal-6-boxer-brief-3-pack?color=navy",
+      "image_url": "//images.quince.com/1JBG9M2sxlHt6d38Dgf9cK/d2841c987ed628a6d47337903c6b8871/M--8-NVY-2273.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Black",
+          "Navy",
+          "Grey"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/cotton-pique-knit-blazer",
+      "brand": "Quince",
+      "name": "Baywood Cotton Pique Knit Blazer",
+      "product_url": "/men/cotton-pique-knit-blazer",
+      "image_url": "//images.quince.com/4vzbHUz1BIadbjIbIyJhyw/49b891251a913b9af23bcc21dca13482/M-JKT-74-BYWD_3140_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "99.90",
+      "product_metadata": {
+        "rating": "4.6",
+        "colors": [
+          "Baywood",
+          "Heather White",
+          "Black",
+          "Olive",
+          "Navy"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-ultra-soft-performance-half-zip?color=heather-navy",
+      "brand": "Quince",
+      "name": "Heather Navy Flowknit Performance Half-Zip",
+      "product_url": "/men/flowknit-ultra-soft-performance-half-zip?color=heather-navy",
+      "image_url": "//images.quince.com/5ueEyZw7CDUtAtr0Zqf3OH/a28f7770f8d919efd9324f914835882e/210412_QUINCE_M-HKT-15-HNV_3598.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Heather Navy",
+          "Heather Cedar",
+          "Heather Pale Grey",
+          "Heather Green",
+          "Black"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/sweatshirts-&-sweatpants/organic-cotton-heavyweight-sweatpant?color=heather-grey",
+      "brand": "Quince",
+      "name": "Heather Grey Organic Heavyweight Fleece Sweatpants",
+      "product_url": "/men/sweatshirts-&-sweatpants/organic-cotton-heavyweight-sweatpant?color=heather-grey",
+      "image_url": "//images.quince.com/FuoABXaCi1b7cFlKG47t8/d87aaf23861310f35993361f659ea292/M-HKT-9-HGREY-3143_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "49.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Black",
+          "Heather Grey"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/cashmere/cashmere-hoodie?color=black",
+      "brand": "Quince",
+      "name": "Black Mongolian Cashmere Pullover Hoodie",
+      "product_url": "/men/cashmere/cashmere-hoodie?color=black",
+      "image_url": "//images.quince.com/6J3Ddpe8bMh8NGGqIokV1D/36cb257c4b03ea666ced1aa5179d2ada/cashmere-pullover-hoodie-13659658616943.jpeg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "99.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Charcoal",
+          "True Navy",
+          "Teak",
+          "Black",
+          "Heather Grey"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/organic-cloudsole-crew-sock-4-pack?color=black",
+      "brand": "Quince",
+      "name": "Black Everyday Cotton Solid Crew Socks (4-pack)",
+      "product_url": "/men/organic-cloudsole-crew-sock-4-pack?color=black",
+      "image_url": "//images.quince.com/3UsLaVmAJUnEQnFJKUI5q8/62ae5eff10b969fd5bf64d921c15171b/socks_4__2_.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "24.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "White",
+          "Black",
+          "Multi",
+          "Navy"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/organic-tri-block-marl-ankle-socks-12-pack",
+      "brand": "Quince",
+      "name": "Blue Purple Black Mix Everyday Cotton Tri-Block Marl Ankle Socks (12-pack)",
+      "product_url": "/unisex/organic-tri-block-marl-ankle-socks-12-pack",
+      "image_url": "//images.quince.com/4gYItCqb7ntig51yTjm0i5/056d1266a1d98f41d94295221c07053b/multi_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "59.90",
+      "product_metadata": {
+        "rating": "4.7",
+        "colors": [
+          "Blue Purple Black Mix"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/merino-ankle-socks",
+      "brand": "Quince",
+      "name": "Black Merino Ankle Socks (4-Pack)",
+      "product_url": "/unisex/merino-ankle-socks",
+      "image_url": "//images.quince.com/2ZAqlfLIUIypYrgMl3H2gF/8e39e04fa051fe80c148231d185aaf9e/Ankle_4_black.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "29.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Black",
+          "Charcoal"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-ultra-soft-performance-long-sleeve-polo",
+      "brand": "Quince",
+      "name": "Charcoal Flowknit Breeze Performance Long Sleeve Polo",
+      "product_url": "/men/flowknit-ultra-soft-performance-long-sleeve-polo",
+      "image_url": "//images.quince.com/2JRE2yjznXRGcNlLk5fcDA/7e6f13d7884e7bbcd89c5808330e88dc/M-LKT-20-CHR_0898.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Charcoal",
+          "Heather Sky Blue",
+          "Navy",
+          "Olive"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/tahiti-polarized-acetate-sunglasses",
+      "brand": "Quince",
+      "name": "Clear Taupe with Brown lens Tahiti Polarized Acetate Sunglasses",
+      "product_url": "/unisex/tahiti-polarized-acetate-sunglasses",
+      "image_url": "//images.quince.com/4ZP5aHxlLDlzm0KzbAuLBF/f8b4b5ca88263b8b14acc03303735f02/U-U-SUN-52-CTB_0248_EDITED.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Clear Taupe with Brown lens",
+          "Clear Sage with Green lens",
+          "Honey with Green lens"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/men-s-mongolian-cashmere-ribbed-crewneck-sweater?color=black",
+      "brand": "Quince",
+      "name": "Black Mongolian Cashmere Fisherman Crewneck Sweater",
+      "product_url": "/men/men-s-mongolian-cashmere-ribbed-crewneck-sweater?color=black",
+      "image_url": "//images.quince.com/1szHOJolG8vwjd32t5yGGu/e3bee68b54420d6d2bd5335232239887/M-SWT-61-BLK_0882_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "99.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Heather Charcoal",
+          "Heather Grey",
+          "Black",
+          "Teak"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/tech-merino-short-sleeve-tee?color=black",
+      "brand": "Quince",
+      "name": "Black 100% Merino Wool All-Season Short Sleeve Base Layer Tee",
+      "product_url": "/men/tech-merino-short-sleeve-tee?color=black",
+      "image_url": "//images.quince.com/1mYEO0IL4KBeA82qTUDMZO/b3d4c3705f733dc82281e14d6e81d347/M-LKT-19-BLK_1621.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Navy",
+          "Green",
+          "Heather Grey",
+          "Black"
+        ],
+        "tags": [
+          "Low stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/recycled-butterknit-tech-long-sleeve-tee?color=navy",
+      "brand": "Quince",
+      "name": "Navy Flowknit Breeze Performance Long Sleeve Tee",
+      "product_url": "/men/recycled-butterknit-tech-long-sleeve-tee?color=navy",
+      "image_url": "//images.quince.com/MZ03C6f5QTidLPIuBQMRz/fde9da0fe21f45223b0c9aa2c91eea54/QUINCE_m-lkt-7-NVY_1714.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "29.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Navy",
+          "Heather Aloe",
+          "Heather Pale Grey",
+          "Heather Black",
+          "Heather Sky Blue"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/cora-polarized-acetate-sunglasses?color=black-with-grey-lens",
+      "brand": "Quince",
+      "name": "Black with Grey lens Cora Polarized Acetate Sunglasses",
+      "product_url": "/unisex/cora-polarized-acetate-sunglasses?color=black-with-grey-lens",
+      "image_url": "//images.quince.com/2xN4rRRzuAhgMTslxU9YIl/81399d4db9f2b69b38d081e948ed71b1/CORA-BLACK-POLARIZED-7023.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Tan Tortoise with Brown Lens",
+          "Ginger Tortoise with Brown lens",
+          "Black with Grey lens"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-ultra-soft-performance-zip-hoodie?color=heather-navy",
+      "brand": "Quince",
+      "name": "Heather Navy Flowknit Performance Zip Hoodie",
+      "product_url": "/men/flowknit-ultra-soft-performance-zip-hoodie?color=heather-navy",
+      "image_url": "//images.quince.com/38Bd0Z0yj9fNUArdGjmxi/25b3653ea631afdf19405b0ba646183d/M-HKT-13-HNVY_1577_EDITED_copy.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "49.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Heather Navy",
+          "Heather Grey",
+          "Black",
+          "Heather Green",
+          "Heather Aloe"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/100-organic-cotton-fisherman-crewneck-sweater?color=speckled-beige",
+      "brand": "Quince",
+      "name": "Speckled Beige 100% Organic Cotton Fisherman Crew Sweater",
+      "product_url": "/men/100-organic-cotton-fisherman-crewneck-sweater?color=speckled-beige",
+      "image_url": "//images.quince.com/4P69hJmYqhPYgnXSelpc6r/b3080c522368e75f6a8832fcbf6f4a2e/M-SWT-29-SPECK_1099_copy.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "59.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Navy",
+          "Charcoal",
+          "Dark Spruce",
+          "Speckled Beige",
+          "Black"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/tech-merino-long-sleeve-baselayer?color=black",
+      "brand": "Quince",
+      "name": "Black 100% Merino Wool All-Season Long Sleeve Base Layer Tee",
+      "product_url": "/men/tech-merino-long-sleeve-baselayer?color=black",
+      "image_url": "//images.quince.com/4lzle4zeln4CydhssAi4z9/91b6911edf59957426f30f1a11df9444/M-LKT-18-BLK_1685.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "44.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Green",
+          "Navy",
+          "Black",
+          "Heather Grey"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/athens-polarized-acetate-sunglasses?color=clear-brown-with-brown-lens",
+      "brand": "Quince",
+      "name": "Clear Brown with Brown lens Athens Polarized Acetate Sunglasses",
+      "product_url": "/unisex/athens-polarized-acetate-sunglasses?color=clear-brown-with-brown-lens",
+      "image_url": "//images.quince.com/5IbJ757Pj0RFSwSnh2kcn7/8b893347666aa9886840a87003a24ead/U-U-SUN-67_0391_EDITED.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Clear Sage with Green lens",
+          "Clear Taupe with Brown lens",
+          "Clear Brown with Brown lens"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/mongolian-cashmere-polo-sweater?color=heather-grey",
+      "brand": "Quince",
+      "name": "Heather Grey Mongolian Cashmere Polo Sweater",
+      "product_url": "/men/mongolian-cashmere-polo-sweater?color=heather-grey",
+      "image_url": "//images.quince.com/XqyEeLkrv4ek1Vhuv52bA/48ec8f39a81a2739a586308815e7bfa1/M-SWT-62-HGRY_1471_EDITED_copy.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "99.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Black",
+          "True Navy",
+          "Teak",
+          "Charcoal",
+          "Heather Grey"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/women/emily-polarized-acetate-sunglasses?color=black-with-grey-lens",
+      "brand": "Quince",
+      "name": "Black with Grey lens Emily Polarized Acetate Sunglasses",
+      "product_url": "/women/emily-polarized-acetate-sunglasses?color=black-with-grey-lens",
+      "image_url": "//images.quince.com/XAyWC2aVhJ1x8FsvgiCIg/edc998187362502895e5b4ea80d90686/Sunglasses_169047.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "50.00",
+      "product_metadata": {
+        "rating": "4.6",
+        "colors": [
+          "Tortoise with Brown lens",
+          "Black with Grey lens"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/apple-watch-band-leather?color=cognac",
+      "brand": "Quince",
+      "name": "Cognac Leather Apple Watch Band",
+      "product_url": "/unisex/apple-watch-band-leather?color=cognac",
+      "image_url": "//images.quince.com/4dGV9vwEKUxc1MrrJPG1YD/7a59ae9f82ae88c08796635f61d69a7a/39_SHOT_0403.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "29.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Cognac",
+          "Steel Blue",
+          "Charcoal",
+          "Black",
+          "Dune"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/organic-no-show-socks-12-pack",
+      "brand": "Quince",
+      "name": "Multi Everyday Lightweight Cotton No-Show Socks (12-pack)",
+      "product_url": "/unisex/organic-no-show-socks-12-pack",
+      "image_url": "//images.quince.com/4Mwa3vH30MjnnAUGI1LJSx/f12d8705d4f62a206c8aa19554a744f9/ankle_multi.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "59.90",
+      "product_metadata": {
+        "rating": "4.5",
+        "colors": [
+          "Multi",
+          "White",
+          "Black"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/flowknit-breeze-performance-henley-tee",
+      "brand": "Quince",
+      "name": "Heather Sky Blue Flowknit Breeze Performance Henley Tee",
+      "product_url": "/men/flowknit-breeze-performance-henley-tee",
+      "image_url": "//images.quince.com/3Hrs2rnJr6u3Zi6bVknKfZ/82a010b1ce2be235ab2ded5ffa3809fd/M-LKT-42-HSKBLU_2948_EDITED_1.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "24.90",
+      "product_metadata": {
+        "rating": "5.0",
+        "colors": [
+          "Heather Sky Blue",
+          "Burgundy",
+          "Heather Black",
+          "Charcoal",
+          "Navy"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/ultra-soft-micromodal-boxer-brief-3-pack?color=black",
+      "brand": "Quince",
+      "name": "Black Micromodal 8\" Boxer Brief (3-pack)",
+      "product_url": "/men/ultra-soft-micromodal-boxer-brief-3-pack?color=black",
+      "image_url": "//images.quince.com/7zbiPNfS1ZIGtRy4S3vhCs/98612858fefe2fc52a5153e4e53c3f57/M--2-BLK_0092_copy.jpeg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Navy",
+          "Black",
+          "Grey"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/organic-color-block-marl-ankle-sock",
+      "brand": "Quince",
+      "name": "Pink/Blue/Purple Mix Everyday Cotton Colorblock Marl Ankle Socks (4-pack)",
+      "product_url": "/unisex/organic-color-block-marl-ankle-sock",
+      "image_url": "//images.quince.com/75I64plxc5CyXhXh0KkbAi/84326be5c5c478be95bec03c07455fc1/sock_Multi.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "24.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Pink/Blue/Purple Mix"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/unisex/organic-crew-socks-12-pack",
+      "brand": "Quince",
+      "name": "Multi Everyday Cotton Solid Crew Socks (12-pack)",
+      "product_url": "/unisex/organic-crew-socks-12-pack",
+      "image_url": "//images.quince.com/1yQN9BQ2kbcRnqIVUB4YlT/ec824e3596c35e296482a56acaca3e12/Multi_12.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "64.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Multi",
+          "White",
+          "Black",
+          "Navy"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/sweatshirts-&-sweatpants/organic-cotton-heavyweight-crew?color=black",
+      "brand": "Quince",
+      "name": "Black Organic Heavyweight Fleece Crew",
+      "product_url": "/men/sweatshirts-&-sweatpants/organic-cotton-heavyweight-crew?color=black",
+      "image_url": "//images.quince.com/21IBTsRCe3FFDqdE7TDdZF/8653797f9a71c3fe39dc46af04d7538f/M-HKT-6-BLK_1401.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "39.90",
+      "product_metadata": {
+        "rating": "4.8",
+        "colors": [
+          "Heather Grey",
+          "Black"
+        ],
+        "tags": [
+          "Back in stock",
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/men/mongolian-cashmere-henley",
+      "brand": "Quince",
+      "name": "Heather Grey Mongolian Cashmere Henley Sweater",
+      "product_url": "/men/mongolian-cashmere-henley",
+      "image_url": "//images.quince.com/7BftXrvRRqLBu86HIhfOCG/f944499e03860b907de7bacc9bec3c07/M-SWT-21-HGRY_1819.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "79.90",
+      "product_metadata": {
+        "rating": "4.9",
+        "colors": [
+          "Heather Grey",
+          "Rich Burgundy",
+          "Brown",
+          "Black"
+        ],
+        "tags": [
+          "Best seller"
+        ]
+      }
+    },
+    {
+      "store": "quince",
+      "store_product_id": "/women/organic-no-show-sock-4-pack?color=black",
+      "brand": "Quince",
+      "name": "Black Everyday Lightweight Cotton No-Show Socks (4-pack)",
+      "product_url": "/women/organic-no-show-sock-4-pack?color=black",
+      "image_url": "//images.quince.com/3lD4Xu7y8pHEOJbxxyG0GK/bed01c42c0a5073a30fda0a68b7bfb93/no_show_black.jpg?w=662&q=50&h=828&fm=webp&reqOrigin=website-ssg",
+      "price_current": "24.90",
+      "product_metadata": {
+        "rating": "4.7",
+        "colors": [
+          "White",
+          "Black",
+          "Multi"
+        ],
+        "tags": [
+          "Back in stock"
+        ]
+      }
+    }
+  ]
+}
