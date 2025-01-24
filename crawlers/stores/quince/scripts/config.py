@@ -6,6 +6,13 @@ SCRAPER_CONFIG = {
         "headless": False,
         "window_size": [1920, 1080]
     },
+    "popup_handlers": [
+        {
+            "type": "close_button",
+            "selector": "#closeIconContainer",
+            "wait_time": 5
+        }
+    ],
     "lazy_loading_type": "scroll",
     "scroll_behavior": {
         "human_like": True,

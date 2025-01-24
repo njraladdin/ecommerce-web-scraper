@@ -138,18 +138,26 @@ python -m crawlers.run_scraper --store nordstrom --urls "https://www.nordstrom.c
 
 ### Example Usage
 
-Basic usage:
+Basic usage for each store:
+
+**Lululemon:**
 ```bash
-python -m crawlers.run_scraper --store macys --urls "https://www.macys.com/shop/mens-clothing/all-mens-clothing?id=197651"
+python -m crawlers.run_scraper --store lululemon --urls "https://shop.lululemon.com/c/shoes/_/N-1z0xcmkZ8tj" --items-limit 50
 ```
 
-With items limit:
+**Nordstrom:**
 ```bash
-# Limit to 50 items
-python -m crawlers.run_scraper --store macys --urls "https://www.macys.com/shop/mens-clothing/all-mens-clothing?id=197651" --items-limit 50
+python -m crawlers.run_scraper --store nordstrom --urls "https://www.nordstrom.com/browse/men/all?breadcrumb=Home%2FMen%2FAll%20Men" --items-limit 50
+```
 
-# Limit to 10 items
-python -m crawlers.run_scraper --store macys --urls "https://www.macys.com/shop/mens-clothing/all-mens-clothing?id=197651" --items-limit 10
+**Macys:**
+```bash
+python -m crawlers.run_scraper --store macys --urls "https://www.macys.com/shop/mens-clothing/all-mens-clothing?id=197651" --items-limit 50
+```
+
+**Quince:**
+```bash
+python -m crawlers.run_scraper --store quince --urls "https://www.quince.com/men?qpid=_elmtbo79k" --items-limit 50
 ```
 
 If no `--items-limit` is specified, the scraper will collect all available items from the URL.

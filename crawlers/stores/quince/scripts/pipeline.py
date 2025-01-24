@@ -23,6 +23,10 @@ class QuinceScraper(BaseScraper, HumanScrollingMixin, SelectorMixin):
         self.driver.get(url)
         time.sleep(random.uniform(2.0, 4.0))
         logger.debug("Page loaded successfully")
+        # Handle any popups
+        self.handle_popups()
+        logger.debug("Popup handling completed")
+
 
     def scroll_page(self) -> None:
         """Scroll down the page using human-like behavior."""
