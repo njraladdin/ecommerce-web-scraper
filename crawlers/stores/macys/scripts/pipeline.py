@@ -47,10 +47,13 @@ class MacysScraper(BaseScraper, HumanScrollingMixin, SelectorMixin):
             
             # Scroll button into view
             self.driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", next_button)
-            time.sleep(random.uniform(1.0, 2.0))
-            
-            # Wait before clicking
+
             time.sleep(random.uniform(3.0, 5.0))
+            logger.info("Checking for popups before clicking")
+            # Quick check for popups before clicking
+            self.handle_popups(wait_time=3)
+            logger.info("Popup check completed")
+            # Wait before clicking
             next_button.click()
             # Wait after clicking
             time.sleep(random.uniform(4.0, 6.0))

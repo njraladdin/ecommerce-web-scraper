@@ -206,38 +206,50 @@ class BaseScraper(ABC):
         self.config = config
         self.driver = None
 
-    def handle_popups(self) -> None:
-        """Handle any popups that might appear when page loads."""
+    def handle_popups(self, wait_time: int = 5) -> None:
+        """Handle any popups that might appear."""
         popup_handlers = self.config.get("popup_handlers", [])
+        logger.info(f"Found {len(popup_handlers)} popup handlers")
+        logger.info(f"Popup handlers: {popup_handlers}")
         
         for handler in popup_handlers:
             try:
                 handler_type = handler.get("type")
                 selector = handler.get("selector")
-                wait_time = handler.get("wait_time", 5)
+                # Use handler's wait_time if available, otherwise use param
+                handler_wait_time = handler.get("wait_time", wait_time)
                 
                 if handler_type == "close_button":
-                    logger.debug(f"Looking for popup close button: {selector}")
-                    # Wait for element to be clickable
-                    wait = WebDriverWait(self.driver, wait_time)
-                    close_button = wait.until(
-                        EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
-                    )
+                    logger.info(f"Looking for popup close button: {selector}")
                     
-                    # Add a small random delay to make it more human-like
-                    time.sleep(random.uniform(0.5, 1.5))
-                    
-                    # Try to click the button
+                    # Wait for elements to appear
                     try:
-                        close_button.click()
-                        logger.info(f"Successfully closed popup using selector: {selector}")
-                        # Add a small delay after closing
-                        time.sleep(random.uniform(0.5, 1.0))
-                    except ElementNotInteractableException:
-                        logger.warning(f"Popup close button found but not clickable: {selector}")
-                        
-            except TimeoutException:
-                logger.debug(f"No popup found for handler: {handler}")
+                        wait = WebDriverWait(self.driver, handler_wait_time)
+                        wait.until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                        )
+                    except TimeoutException:
+                        logger.info(f"No popup appeared within {handler_wait_time} seconds")
+                        continue
+                    
+                    # Find and try to click elements
+                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
+                    if elements:
+                        logger.info(f"Found {len(elements)} popup close buttons")
+                        for elem in elements:
+                            try:
+                                button_id = elem.get_attribute('id')
+                                logger.info(f"Trying to click button ID: {button_id}")
+                                if elem.is_displayed():  # Just check if it's visible
+                                    elem.click()
+                                    logger.info(f"Successfully clicked popup button: {button_id}")
+                                    time.sleep(0.5)
+                            except Exception as e:
+                                logger.debug(f"Could not click button {button_id}: {e}")
+                                continue
+                    else:
+                        logger.info("No popup buttons found")
+                    
             except Exception as e:
                 logger.warning(f"Error handling popup: {str(e)}")
 
