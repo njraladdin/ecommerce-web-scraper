@@ -45,7 +45,10 @@ class SelectorMixin:
             if '(' in clean_value:
                 clean_value = clean_value.split('(')[0].strip()
             
-            if '-' in clean_value:
+            # Handle both regular hyphen (-) and en dash (–)
+            if '-' in clean_value or '–' in clean_value:
+                # Replace en dash with regular hyphen for consistent splitting
+                clean_value = clean_value.replace('–', '-')
                 parts = clean_value.split('-')
                 min_price = parts[0].strip()
                 max_price = parts[1].strip()

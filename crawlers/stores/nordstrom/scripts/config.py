@@ -49,12 +49,26 @@ SCRAPER_CONFIG = {
         "price_current": {
             "method": "select_one",
             "pattern": "span.qHz0a.BkySr.EhCiu.dls-ihm460, span.qHz0a.EhCiu.dls-ihm460",
-            "text": True
+            "text": True,
+            "transform": "clean_price"
+        },
+        "price_min": {
+            "method": "select_one",
+            "pattern": "span.qHz0a.BkySr.EhCiu.dls-ihm460, span.qHz0a.EhCiu.dls-ihm460",
+            "text": True,
+            "transform": "first_price"
+        },
+        "price_max": {
+            "method": "select_one",
+            "pattern": "span.qHz0a.BkySr.EhCiu.dls-ihm460, span.qHz0a.EhCiu.dls-ihm460",
+            "text": True,
+            "transform": "last_price"
         },
         "price_original": {
             "method": "select_one",
             "pattern": "span.fj69a.EhCiu.dls-ihm460",
-            "text": True
+            "text": True,
+            "transform": "clean_price"
         },
         "product_metadata": {
             "method": "extract_metadata",
