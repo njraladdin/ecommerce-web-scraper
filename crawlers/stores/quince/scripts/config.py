@@ -45,7 +45,8 @@ SCRAPER_CONFIG = {
         "price_current": {
             "method": "select_one",
             "pattern": "div.product-title-section-module--basePrice--9cd19",
-            "text": True
+            "text": True,
+            "transform": "clean_price"
         },
         "price_original": None,
         "product_metadata": {
