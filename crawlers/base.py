@@ -27,10 +27,16 @@ class SelectorMixin:
     
     def _transform_price(self, value: str) -> str:
         """Clean and transform price string."""
-        if not value:
+        try:
+            if not value:
+                return None
+            # Remove currency symbols and any whitespace
+            cleaned = value.replace('$', '').replace('USD', '').strip()
+            logger.debug(f"Transformed price from '{value}' to '{cleaned}'")
+            return cleaned
+        except Exception as e:
+            logger.error(f"Error in _transform_price for value '{value}': {str(e)}")
             return None
-        # Remove currency symbols and any whitespace
-        return value.replace('$', '').replace('USD', '').strip()
     
     def _extract_price_range(self, value: str) -> tuple:
         """Extract min and max prices from a price range string."""
@@ -40,20 +46,23 @@ class SelectorMixin:
             
             # Clean the string and split by range indicator
             clean_value = value.replace('$', '').replace('USD', '').strip()
+            logger.debug(f"Cleaned price range value: {clean_value}")
             
             # Remove discount information in parentheses if present
             if '(' in clean_value:
                 clean_value = clean_value.split('(')[0].strip()
+                logger.debug(f"Removed parentheses info: {clean_value}")
             
             # Handle both regular hyphen (-) and en dash (–)
             if '-' in clean_value or '–' in clean_value:
-                # Replace en dash with regular hyphen for consistent splitting
                 clean_value = clean_value.replace('–', '-')
                 parts = clean_value.split('-')
                 min_price = parts[0].strip()
                 max_price = parts[1].strip()
+                logger.debug(f"Split price range: min={min_price}, max={max_price}")
                 return min_price, max_price
             
+            logger.debug(f"Single price value: {clean_value}")
             return clean_value, clean_value
             
         except Exception as e:
@@ -61,24 +70,16 @@ class SelectorMixin:
             return None, None
     
     def extract_with_selector(self, soup_item: BeautifulSoup, selector: Dict[str, Any] | str) -> Any:
-        """
-        Extract data from BeautifulSoup object using a selector configuration.
-        Args:
-            soup_item: BeautifulSoup object to extract from
-            selector: Selector configuration dictionary with method, pattern, and optional attribute/text flags,
-                     or a string representing the CSS selector pattern directly
-        Returns:
-            Extracted value or None if not found
-        """
+        """Extract data from BeautifulSoup object using a selector configuration."""
         if selector is None:
             logger.debug("Selector is None, skipping")
             return None
-            
+        
         try:
             # Handle string selector (direct CSS pattern)
             if isinstance(selector, str):
                 elements = soup_item.select(selector)
-                return elements
+                return elements or None
             
             # Handle dictionary selector configuration
             method = selector.get('method', 'select_one')
@@ -94,7 +95,7 @@ class SelectorMixin:
                 element = soup_item.select_one(pattern)
                 if element:
                     if attribute:
-                        value = element.get(attribute)
+                        value = element.get(attribute) or None
                     else:
                         value = element.text.strip() if text_only else str(element)
                 else:
@@ -104,7 +105,7 @@ class SelectorMixin:
                 elements = soup_item.select(pattern)
                 if elements:
                     if attribute:
-                        value = [el.get(attribute) for el in elements]
+                        value = [el.get(attribute) or None for el in elements]
                     else:
                         value = [el.text.strip() if text_only else str(el) for el in elements]
                 else:
@@ -117,25 +118,21 @@ class SelectorMixin:
             if transform and value:
                 logger.debug(f"Applying transform '{transform}' to value: {value}")
                 if transform == 'first_url':
-                    # Extract first URL from a srcset attribute
                     value = value.split(',')[0].split(' ')[0] if isinstance(value, str) else value
                 elif transform == 'clean_price':
-                    value = self._transform_price(value)
+                    value = self._transform_price(value) or None
                 elif transform == 'first_price':
                     min_price, _ = self._extract_price_range(value)
-                    logger.debug(f"first_price transform result: {min_price}")
-                    value = min_price
+                    value = min_price or None
                 elif transform == 'last_price':
                     _, max_price = self._extract_price_range(value)
-                    logger.debug(f"last_price transform result: {max_price}")
-                    value = max_price
-                # Add more transformations as needed
+                    value = max_price or None
                 
             logger.debug(f"Final extracted value: {value}")
             return value
             
         except Exception as e:
-            logger.error(f"Error extracting with selector: {e}")
+            logger.error(f"Error in extract_with_selector: {e}")
             return None
 
     def get_config_value(self, field: str, config: Dict[str, Any]) -> Any:
@@ -206,17 +203,17 @@ class SelectorMixin:
                 # Special handling for metadata field
                 if field == 'product_metadata' and isinstance(selector, dict) and selector.get('method') == 'extract_metadata':
                     metadata = self.extract_metadata(soup_item, selector)
-                    if metadata:
-                        product_info[field] = metadata
+                    product_info[field] = metadata if metadata else None
                     continue
                     
                 # If no config value, try to extract using selector
                 value = self.extract_with_selector(soup_item, selector)
-                if value is not None:
-                    product_info[field] = value
+                # Always add the field to product_info, even if value is None
+                product_info[field] = value
                 
             except Exception as e:
                 logger.error(f"Error extracting field '{field}': {str(e)}")
+                product_info[field] = None
                 continue
             
         return product_info

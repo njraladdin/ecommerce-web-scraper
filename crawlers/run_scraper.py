@@ -88,7 +88,7 @@ def save_results(items: List[Dict[str, Any]], store_name: str, output_dir: str =
                 "total_items": len(items)
             },
             "items": items
-        }, f, indent=2, ensure_ascii=False)
+        }, f, indent=2, ensure_ascii=False, default=str)
         
     logger.info(f"Results saved to {filename}")
     return str(filename)

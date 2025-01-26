@@ -27,7 +27,7 @@ SCRAPER_CONFIG = {
         }
     },
     "selectors": {
-        "product_item": ".product-thumbnail-container",
+        "product_item": ".cell .sortablegrid-product",
         "store": None,  # Set in code
         "store_product_id": {
             "method": "select_one",
@@ -51,8 +51,8 @@ SCRAPER_CONFIG = {
         },
         "image_url": {
             "method": "select_one",
-            "pattern": "picture source[type='image/webp']",
-            "attribute": "srcset"
+            "pattern": "picture > img",
+            "attribute": "data-src"
         },
         "price_current": {
             "method": "select_one",
